@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical)](https://github.com/Rjndrkha/Aboutme)
 
 
-## I'm a Student and Developer At State Polytechic of Malang!!
+## 🎓I'm a Student and Developer At State Polytechic of Malang
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects

@@ -3,7 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>
 
 [![Website](https://img.shields.io/badge/Linkedin/Rajendra-1K-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajendra-rakha-1b7675196)
-[![Twitter Follow](https://img.shields.io/badge/Instagram/Rjndrkha-2K-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/rjndrkha_)
+[![Twitter Follow](https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rjndrkha_)
+[![Twitter Follow](https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6289631565880)
+[![Twitter Follow](https://img.shields.io/badge/Mail/Rjndrkha-Contact-red?style=for-the-badge&logo=gmail)](mailto:1941720080@student.polinema.ac.id)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical)](https://github.com/Rjndrkha/Aboutme)
@@ -46,8 +48,3 @@
 
 ## 🏆 Rjndrkha's Thropy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rjndrkha&theme=flat&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-
-

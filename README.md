@@ -2,14 +2,26 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>
 
-[![Website](https://img.shields.io/badge/Linkedin/Rajendra-1K-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajendra-rakha-1b7675196)
-[![Twitter Follow](https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rjndrkha_)
-[![Twitter Follow](https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6289631565880)
-[![Twitter Follow](https://img.shields.io/badge/Mail/Rjndrkha-Contact-red?style=for-the-badge&logo=gmail)](mailto:1941720080@student.polinema.ac.id)
+<p align="center">
+    <a href="https://www.linkedin.com/in/rajendra-rakha-1b7675196">
+    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/Rajendra-1K-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/rjndrkha_">
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://wa.me/6289631565880">
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+      <a href="mailto:1941720080@student.polinema.ac.id">
+    <img alt="Mail" src="https://img.shields.io/badge/Mail/Rjndrkha-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+    
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical)](https://github.com/Rjndrkha/Aboutme)
-
+<p align="center">
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
+  <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical" />
+</p>
 
 ## 🎓I'm a Student and Developer At State Polytechic of Malang
 
@@ -21,9 +33,13 @@
 
 ## 🚀 Languages and Tools:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rjndrkha&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49)](https://git.io/streak-stats)
+<p align="center">
+  <img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com?user=Rjndrkha&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />
 
-<p align="left"> 
+  
+</p>
+
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
@@ -42,9 +58,17 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://laravel.com/" target="_blank"> <img src="https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1" alt="Laravel" width="80" height="48"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://github.com/microsoft/vscode" target="_blank"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=FFF"> </a>
+    <a href="https://github.com/rjndrkha" target="_blank"> <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFF"> </a>
+    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.shields.io/badge/sublime%20text-%23575757.svg?style=for-the-badge&logo=sublimetext&logoColor=F89820"> </a>
+
+    
 </p>
 
 ---
 
 ## 🏆 Rjndrkha's Thropy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rjndrkha&theme=flat&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img alt="github stats" src="https://github-profile-trophy.vercel.app/?username=Rjndrkha&theme=flat&row=1" />
+</p>

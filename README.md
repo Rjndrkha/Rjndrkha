@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+[![Waka Readme](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/waka.yml/badge.svg)](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/waka.yml)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week

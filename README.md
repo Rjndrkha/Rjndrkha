@@ -2,7 +2,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Blade Template   1 hr 25 mins    █████████████████████░░░░   84.50 % 
+CSS              8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+PHP              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 <!--END_SECTION:waka-->
 

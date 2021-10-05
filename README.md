@@ -5,6 +5,8 @@
     
 <!--START_SECTION:waka-->
 ```text
+Week: 28 September, 2021 - 04 October, 2021
+
 Blade Template   1 hr 25 mins    █████████████████████░░░░   84.50 % 
 CSS              8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 PHP              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 

@@ -1,19 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## 💻 Rjndrkha's Working Time 
-<p align="center">
-    
-<!--START_SECTION:waka-->
-```text
-Week: 28 September, 2021 - 04 October, 2021
-
-Blade Template   1 hr 25 mins    █████████████████████░░░░   84.50 % 
-CSS              8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-PHP              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-```
-<!--END_SECTION:waka-->
-    
-</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>
 
 <p align="center">
@@ -35,6 +21,21 @@ PHP              6 mins          █▓░░░░░░░░░░░░░�
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
   <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical" />
+</p>
+
+## 💻 Rjndrkha's Working Time 
+<p align="center">
+    
+<!--START_SECTION:waka-->
+```text
+Week: 28 September, 2021 - 04 October, 2021
+
+Blade Template   1 hr 25 mins    █████████████████████░░░░   84.50 % 
+CSS              8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+PHP              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+```
+<!--END_SECTION:waka-->
+    
 </p>
 
 ## 🎓I'm a Student and Developer At State Polytechic of Malang

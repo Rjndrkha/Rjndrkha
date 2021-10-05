@@ -1,5 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+## 💻 Rjndrkha's Working Time 
+<p align="center">
+    
 <!--START_SECTION:waka-->
 ```text
 Blade Template   1 hr 25 mins    █████████████████████░░░░   84.50 % 
@@ -7,7 +10,8 @@ CSS              8 mins          ██░░░░░░░░░░░░░�
 PHP              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 <!--END_SECTION:waka-->
-
+    
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>
 
 <p align="center">

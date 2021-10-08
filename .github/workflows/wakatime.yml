@@ -11,12 +11,8 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update gist
-        uses: matchai/waka-box@master
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 968220c97e8da1d047a9a480fa432e54
+      - uses: athul/waka-readme@master
+        with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿

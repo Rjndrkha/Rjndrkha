@@ -29,7 +29,6 @@
     
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
 
 Other            6 hrs 37 mins   ███████████████▒░░░░░░░░░   61.41 % 
 Blade Template   2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.75 % 

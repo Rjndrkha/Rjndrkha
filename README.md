@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="30%" height="auto" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" height="175px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" height="175px"/></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>

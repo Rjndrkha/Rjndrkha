@@ -31,7 +31,7 @@
     
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 Other            10 hrs 2 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀   91.16 % 
 Blade Template   30 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 % 

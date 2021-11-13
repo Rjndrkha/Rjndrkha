@@ -31,7 +31,7 @@
     
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
 Other   11 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.35 % 
 JSON    2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.40 % 

@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/rjndrkha_">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://wa.me/6289631565880">
+  <a href="https://wa.me/">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp" />
   </a>
       <a href="mailto:1941720080@student.polinema.ac.id">

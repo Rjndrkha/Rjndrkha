@@ -19,12 +19,13 @@
   </a>
     
 </p>
-
+<!--
 <p align="center">
     
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
   <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical" />
 </p>
+-->
 
 ## 💻 Rjndrkha's Working Time [![Waka Readme](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/wakatime.yml/badge.svg)](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/wakatime.yml)
 <p align="center">

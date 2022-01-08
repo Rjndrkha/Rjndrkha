@@ -32,7 +32,7 @@
     
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
 Other            24 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.75 % 
 Blade Template   9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.64 % 

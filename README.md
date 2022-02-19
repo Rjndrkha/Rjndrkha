@@ -34,8 +34,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 0 secs
-
 Other   24 hrs 8 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->

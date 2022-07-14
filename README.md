@@ -1,6 +1,8 @@
 <p align="center">
-<a href="#"><img width="60%" height="auto" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" height="175px"/></a>
+<a href="#"><img width="90%" height="auto" src="https://user-images.githubusercontent.com/75615789/179041798-ec9a8653-b527-4c3f-b8f9-a8136303ab6c.png" height="175px"/></a>
+
 </p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rjndrkha , AKA Rajendra Rakha</h1>
 

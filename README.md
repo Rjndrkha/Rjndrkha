@@ -35,10 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-C#    1 hr 58 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.50 %
-PHP   1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.50 %
+PHP   1 hr 22 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀   66.35 %
+C#    41 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.65 %
 ```
 
 <!--END_SECTION:waka-->
